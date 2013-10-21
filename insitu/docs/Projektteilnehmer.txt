@@ -1,0 +1,9 @@
+Liste der Projektteilnehmer.
+=============================
+Bitte vervollständigen !
+
+Format: 
+Name, Emailadresse auf github, Nutzername auf github, sonstige Namenskürzel 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Torsten	Krämer, torsten.kraemer@tu-berlin.de, tkraemer, tk
