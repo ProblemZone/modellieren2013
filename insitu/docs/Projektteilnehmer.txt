@@ -9,3 +9,5 @@ Name, Emailadresse auf github, Nutzername auf github, sonstige Namenskürzel
 Torsten	Krämer, torsten.kraemer@tu-berlin.de, tkraemer, tk
 
 Andreas Jansen, andreas.jansen@campus.tu-berlin.de, andijansen, aj
+
+Danny Hamann, problemzone2000@gmail.com, ProblemZone, dh
