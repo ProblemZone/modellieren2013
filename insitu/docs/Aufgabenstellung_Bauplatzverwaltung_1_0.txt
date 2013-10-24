@@ -3,16 +3,19 @@ Aufgabenstellung Bauplatzverwaltung 1.0
 Stand: 23.10.13
 
 Anmerkung:
-Zur Erstellung des UML-Diagramms wurde das Programm "UMLet 12.1 stand-alone" genutzt.
-Wer dieses UML überarbeiten möchte, sollte diese Programm ebenfalls nutzen.
-Näheres unter: 
 
-http://www.umlet.com/changes.htm
+>Zur besseren Visualisierung hab ich auch ein UML gebaut, hab aber noch nicht rausgefunden, wie ich das hier hochlade. Kommt Zeit kommt Rat.
 
-Einfach das Verzeichnis am gewünschten Speicherort entpacken und die Umlet.exe ausführen.
-Es ist keine Installation nötig.
+	Zur Erstellung des UML-Diagramms wurde das Programm "UMLet 12.1 stand-alone" genutzt.
+	Wer dieses UML überarbeiten möchte, sollte diese Programm ebenfalls nutzen.
+	Näheres unter: 
 
-<<<Diese Formulierung ist nicht abschließend, bitte berichtigt/konkretisiert diese Angaben. Ebenso ist das UML noch nicht fertig, gern darf umformuliert oder geändert werden>>>
+	http://www.umlet.com/changes.htm
+
+	Einfach das Verzeichnis am gewünschten Speicherort entpacken und die Umlet.exe ausführen.
+	Es ist keine Installation nötig.
+
+<<<Die folgende Formulierung ist nicht abschließend, bitte berichtigt/konkretisiert diese Angaben. Ebenso ist das UML noch nicht fertig, gern darf umformuliert oder geändert werden>>>
 
 
 Erklärung:
